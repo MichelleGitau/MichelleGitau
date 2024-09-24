@@ -8,9 +8,9 @@ Welcome to my GitHub profile 🙏🏼
   <img src="./Images/avatar.png" width="200" height="200">
 </p>
 
-### Machine Learning Engineer | Data Scientist
+### Machine Learning Engineer | Data Scientist/Analyst
 
-*I create algorithms and models that help computers learn from data and make forecasts, resulting in valuable business insights.*
+*From data engineering and modeling to visualization, I develop algorithms and models that enable computers to learn from data, generate forecasts, and provide valuable business insights.*
 
 ---
 ### Profile Summary
