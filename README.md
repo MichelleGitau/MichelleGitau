@@ -1,4 +1,4 @@
-# Hi 👋🏼, I am Brian Kipkoech!
+# Hi 👋🏼, I am Michelle Gitau!
 
 Welcome to my GitHub profile 🙏🏼
 
