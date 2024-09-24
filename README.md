@@ -16,11 +16,11 @@ Welcome to my GitHub profile 🙏🏼
 ### Profile Summary
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MichelleGitau&label=Profile%20views&color=0e75b6&style=flat" alt="MichelleGitau" /> </p>
 
-I am a passionate data scientist and machine learning expert who is inspired by technology's capacity to resolve complex issues. I have experience in a variety of fields, including statistics, AI, computer vision, deep learning, mathematics, and NLP, and I'm always learning new things in these fields. My strategy is focused on producing high-quality outcomes while also valuing lifelong learning and personal growth.
+I am a skilled data scientist driven by the goal of delivering innovative AI solutions to complex business challenges. With strong expertise in machine learning, deep learning, NLP, and computer vision, alongside a solid foundation in statistics and business domain knowledge, I consistently bring value to solution design and implementation.x
 <br><br>
-In addition to my expertise in machine learning and data science, I have also worked with DevOps and AWS (Amazon Web Services). I have worked on using AWS's services like SageMaker, EC2, RDS, S3, Step Functions, and Lambda to implement machine learning models and create scalable and reliable systems. I recognize the value of having a strong DevOps culture in machine learning and data science, and I work hard to incorporate best practices into my workflows to guarantee efficient and effective machine learning model development, testing, and deployment.
+In my experience within the banking industry, I have developed a range of predictive models including credit scoring, customer churn prediction, and investment cross-sell models. I have also created Power BI reports for various teams to enhance reporting and decision-making. Throughout these projects, I ensured adherence to best practices and strict data governance standards, ensuring both accuracy and compliance with regulatory requirements.
 <br><br>
-I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/MichelleGitau?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 gitau461@gmail.com
+I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/MichelleGitau?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my expertise, and dedication to creating value. If you share my vision and wish to collaborate, feel free to reach out at 📫 gitau461@gmail.com
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-kipkoech-tanui&theme=midnight-purple" alt="brian-kipkoech-tanui" /></a> </p> -->
 
@@ -182,7 +182,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-kipkoech-tanui&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleGitau&theme=midnight-purple)
 <!-- ![Brian Kipkoech's GitHub stats](https://github-readme-stats-v8y1-git-master-brian-kipkoechs-projects.vercel.app/api?username=brian-kipkoech-tanui) -->
 <br>
 <!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg)
