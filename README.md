@@ -16,7 +16,7 @@ Welcome to my GitHub profile 🙏🏼
 ### Profile Summary
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MichelleGitau&label=Profile%20views&color=0e75b6&style=flat" alt="MichelleGitau" /> </p>
 
-I am a skilled data scientist driven by the goal of delivering innovative AI solutions to complex business challenges. With strong expertise in machine learning, deep learning, NLP, and computer vision, alongside a solid foundation in statistics and business domain knowledge, I consistently bring value to solution design and implementation.x
+I am a skilled data scientist driven by the goal of delivering innovative AI solutions to complex business challenges. With strong expertise in machine learning, deep learning, NLP, and computer vision, alongside a solid foundation in statistics and business domain knowledge, I consistently bring value to solution design and implementation.git 
 <br><br>
 In my experience within the banking industry, I have developed a range of predictive models including credit scoring, customer churn prediction, and investment cross-sell models. I have also created Power BI reports for various teams to enhance reporting and decision-making. Throughout these projects, I ensured adherence to best practices and strict data governance standards, ensuring both accuracy and compliance with regulatory requirements.
 <br><br>
